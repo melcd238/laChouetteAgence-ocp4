@@ -1,0 +1,3 @@
+User-Agent: *
+Allow: /
+Sitemap: https://melcd238.github.io/la_chouette_agence_ocp4/sitemap.xml
